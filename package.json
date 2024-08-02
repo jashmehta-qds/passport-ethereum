@@ -1,22 +1,22 @@
 {
   "name": "passport-ethereum-siwe-v2",
-  "version": "0.1.1",
-  "description": "Ethereum authentication strategy for Passport.",
+  "version": "0.1.2",
+  "description": "Ethereum authentication strategy for Passport. [adpted from git://github.com/jaredhanson/passport-ethereum.git]",
   "keywords": [
     "passport",
-    "ethereum"
+    "ethereum",
+    "ethers-v6"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "https://www.jaredhanson.me/"
+    "name": "Jash Mehta",
+    "email": "jash.mehta08@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-ethereum.git"
+    "url": "git://github.com/jashmehta-qds/passport-ethereum.git"
   },
   "bugs": {
-    "url": "https://github.com/jaredhanson/passport-ethereum/issues"
+    "url": "https://github.com/jashmehta-qds/passport-ethereum/issues"
   },
   "funding": {
     "type": "github",

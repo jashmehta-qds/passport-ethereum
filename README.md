@@ -1,5 +1,8 @@
 # passport-ethereum-siwe
-
+## Edited: 
+Extended support for ethers-v6
+Adjusted the code for separate client and server domains causing issues at verification
+## Original: 
 [Passport](https://www.passportjs.org/) strategy for authenticating
 with [Sign-In with Ethereum](https://login.xyz/).
 
@@ -120,3 +123,4 @@ router.post('/login/ethereum',
 [The MIT License](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2022 Jared Hanson <[https://www.jaredhanson.me/](https://www.jaredhanson.me/)>
+
