@@ -1,5 +1,5 @@
 {
-  "name": "passport-ethereum-siwe",
+  "name": "passport-ethereum-siwe-v2",
   "version": "0.1.1",
   "description": "Ethereum authentication strategy for Passport.",
   "keywords": [
